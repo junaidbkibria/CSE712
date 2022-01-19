@@ -1,20 +1,20 @@
 Completed coursera course using email
 junaid.bin.kibria@g.bracu.ac.bd
-https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/learn/machine-learning (enrolled)
 
 Completed edx course using email
 junaid.bin.kibria@g.bracu.ac.bd
-https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE200x+3T2021/home
+https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE200x+3T2021/home (enrolled)
 
 completed youtube video:
-https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&ab_channel=KrishNaik
-https://youtu.be/tbbYU4mPrDk
-https://www.youtube.com/watch?v=dIUTsFT2MeQ&ab_channel=freeCodeCamp.org
-https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio
+https://www.youtube.com/watch?v=UqYde-LULfs&t=142s&ab_channel=ThalesSehnK%C3%B6rting
+https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli (to be watched)
+https://www.youtube.com/watch?v=xvqsFTUsOmc&ab_channel=PyOhio (to be watched)
 
 completed book:
-https://hastie.su.domains/StatLearnSparsity/index.html
-https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science
+https://hastie.su.domains/StatLearnSparsity/index.html (to be read)
+https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science (to be read)
 
 did project:
 Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
