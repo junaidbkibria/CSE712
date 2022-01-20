@@ -17,7 +17,7 @@ https://hastie.su.domains/StatLearnSparsity/index.html (to be read)
 https://www.researchgate.net/publication/258698880_The_Field_Guide_to_Data_Science (to be read)
 
 did project:
-Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
+Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection
 
 did something else
 An Architectural Approach to Creating a Cloud Application for Developing Microservices
